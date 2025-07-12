@@ -2,16 +2,13 @@
   {
     "key": "ABC123",
     "valid": true,
-    "hours": 1
+    "hours": 1,
+    "minutes": 30
   },
   {
     "key": "DEF456",
     "valid": true,
-    "hours": 3
-  },
-  {
-    "key": "BLOCKED",
-    "valid": false,
-    "hours": 0
+    "hours": 0,
+    "minutes": 45
   }
 ]
