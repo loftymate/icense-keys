@@ -2,8 +2,8 @@
   {
     "key": "ABC123",
     "valid": true,
-    "hours": 1,
-    "minutes": 30
+    "hours": 0,
+    "minutes": 1
   },
   {
     "key": "DEF456",
