@@ -1,0 +1,17 @@
+[
+  {
+    "key": "ABC123",
+    "valid": true,
+    "hours": 1
+  },
+  {
+    "key": "DEF456",
+    "valid": true,
+    "hours": 3
+  },
+  {
+    "key": "BLOCKED",
+    "valid": false,
+    "hours": 0
+  }
+]
