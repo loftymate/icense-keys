@@ -1,0 +1,20 @@
+[
+  {
+    "key": "ABC123",
+    "valid": true,
+    "hours": 0,
+    "minutes": 1
+  },
+  {
+    "key": "DEF456",
+    "valid": true,
+    "hours": 0,
+    "minutes": 45
+  },
+{
+    "key": "DEF456",
+    "valid": true,
+    "hours": 0,
+    "minutes": 2
+  }
+]
